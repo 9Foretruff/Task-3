@@ -1,0 +1,7 @@
+text_file=text.txt
+src_lang=uk
+dest_lang=en
+output=file
+num_chars=600
+num_words=100
+num_sentences=5
